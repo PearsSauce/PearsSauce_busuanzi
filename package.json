@@ -1,0 +1,19 @@
+{
+    "name": "busuanzi",
+    "version": "1.0.0",
+    "description": "青秸的busuanzi平台",
+    "main": "bsz.pure.mini.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PearsSauce/busuanzi.git"
+    },
+    "author": "PearsSauce <lemon@lemonso.com>",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/PearsSauce/busuanzi/issues"
+    },
+    "homepage": "https://github.com/PearsSauce/busuanzi#readme"
+  }
