@@ -13,7 +13,7 @@
 /* 官方地址 */
 <script async src="//pv.lemonso.com/js"></script>
 /* 一个 Mirror 地址 */
-<script async src="//cdn.jsdelivr.net/gh/PearsSauce/busuanzi/bsz.pure.mini.js"></script>
+<script async src="//cdn.jsdelivr.net/gh/PearsSauce/PearsSauce_busuanzi/bsz.pure.mini.js"></script>
 /* 另一个 Mirror 地址 */
-<script async src="//cdn.jsdelivr.net/npm/busuanzi@1.0.0"></script>
+<script async src="//cdn.jsdelivr.net/npm/PearsSauce_busuanzi@1.0.0"></script>
 ```
