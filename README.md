@@ -2,8 +2,8 @@
 
 青秸的busuanzi平台。
 
-![](https://data.jsdelivr.com/v1/package/gh/PearsSauce/busuanzi/badge)
-![](https://data.jsdelivr.com/v1/package/npm/busuanzi/badge)
+![](https://data.jsdelivr.com/v1/package/gh/PearsSauce/PearsSauce_busuanzi/badge)
+![](https://data.jsdelivr.com/v1/package/npm/pearssauce-busuanzi/badge)
 
 ## 使用方法
 
