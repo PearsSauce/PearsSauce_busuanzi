@@ -1,5 +1,5 @@
 {
-    "name": "busuanzi",
+    "name": "@pearsauce/busuanzi",
     "version": "1.0.0",
     "description": "青秸的busuanzi平台",
     "main": "bsz.pure.mini.js",
